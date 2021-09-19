@@ -13,7 +13,7 @@ exports.handler = async (event, context) => {
 
     /// HANDLE ALOGLIA
     // first, get my index
-    let dataResp = await fetch('https://eleventyalgolia.netlify.app/algolia.json');
+    let dataResp = await fetch('https://eleventy-algolia.vercel.app/algolia.json');
 
     let data = await dataResp.json();
     console.log('Successfully got the data, size of articles '+data.length, data[0].title);
