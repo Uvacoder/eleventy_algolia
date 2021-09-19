@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/cfjedimaster/eleventy_algolia/issues"
   },
-  "homepage": "https://github.com/cfjedimaster/eleventy_algolia#readme",
+  "homepage": "https://eleventy-algolia.vercel.app",
   "dependencies": {
     "algolia-indexing": "^1.0.1",
     "node-fetch": "^2.6.0"
