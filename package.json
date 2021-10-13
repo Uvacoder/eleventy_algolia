@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/cfjedimaster/eleventy_algolia/issues"
   },
-  "homepage": "https://infallible-davinci-63a16c.netlify.app",
+  "homepage": "https://abc-eleventy-algolia.netlify.app",
   "dependencies": {
     "algolia-indexing": "^1.0.1",
     "node-fetch": "^2.6.0"
